@@ -21,6 +21,6 @@
     "fastify": "^2.1.0",
     "fastify-plugin": "^1.5.0",
     "fastify-session": "^2.0.0",
-    "mongoose": "^5.4.18"
+    "mongoose": "^5.4.19"
   }
 }
